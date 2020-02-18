@@ -1,0 +1,4 @@
+bread 100 20
+meat 3000 10
+milk 300 2
+cheese 2500 1
